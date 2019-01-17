@@ -1,0 +1,29 @@
+html, body {
+    background-color: #f3f3f3 !important;
+}
+
+.logo {
+    height: 35px;
+    width: 35px;
+}
+
+.state-img {
+    height: 30px;
+    width: 30px;
+}
+
+.tank-img {
+    height: 130px;
+    width: 130px;
+}
+
+.led-off {
+    color: lightslategray;
+    transition: color 0.3s ease;
+}
+
+.led-on {
+ 	color: tomato;
+  	transition: color 0.3s ease;
+  	text-shadow: 0 0 10px orangered;
+}
