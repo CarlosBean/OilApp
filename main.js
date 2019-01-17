@@ -63,7 +63,7 @@ function start() {
             });
         });
 
-        mainProcess(INPUT_VALUES);
+        /* mainProcess(INPUT_VALUES); */
 
     } else {
         Swal({
